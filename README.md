@@ -3,14 +3,14 @@ Predictive Analytics for Financial Decision-Making
 
 As part of my graduate coursework, I completed a comprehensive time series forecasting project analyzing Bitcoin daily closing prices from 2014–2023 using multiple forecasting techniques.
 
-🔍 Models Evaluated:
+Models Evaluated:
 • Naïve Model
 • Seasonal Naïve Model
 • ETS (Error-Trend-Seasonality)
 • TSLM
 • ARIMA
 
-📈 Key Highlights:
+Key Highlights:
 • Performed data cleaning, transformation, and stationarity testing
 • Applied log transformation and differencing for time series modeling
 • Evaluated models using RMSE, MAE, MAPE, and MASE
